@@ -80,7 +80,7 @@ Sustainable-Development-Goals-SDG-Report-Analysis-2024/
 <p align="center">
   <img src="images/cover.png" alt="Cover Slide" width="700">
 </p>
----
+
 
 ## References
 
