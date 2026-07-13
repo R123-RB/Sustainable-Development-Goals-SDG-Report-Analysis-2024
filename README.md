@@ -74,7 +74,6 @@ Sustainable-Development-Goals-SDG-Report-Analysis-2024/
 ```
 
 ---
----
 ## Presentation Preview
 
 <p align="center">
